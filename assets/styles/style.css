@@ -263,12 +263,17 @@ header .container nav .menu-social-redes img:hover {
   transform: translateY(-12%);
 }
 .cases{
-
-  display: flex;
   width: 1300px;
   overflow-x: scroll;
-
 }
+.cases::-webkit-scrollbar{
+width: 18px;
+}
+.cases::-webkit-scrollbar-thumb{
+  background-color: var(--primary-color);
+  border-left: 4px solid #fff;
+  border-right: 4px solid #fff;
+  }
 /* Contact */
 
 .s-contact {
