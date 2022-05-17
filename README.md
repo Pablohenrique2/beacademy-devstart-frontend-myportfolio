@@ -16,11 +16,6 @@ Projeto realizado no dia 12 de maio de 2022, tal projeto foi desenvolvido em liv
 
 - [@Pablo-Henrique 😄](https://github.com/Pablohenrique2)
 
-## Confira o resultado clicando no Gif.
-
-<a href="https://pablohenrique2.github.io/beacademy-devstart-frontend-myportfolio/" target="_blank" >
-<img style="width: 500px;" src="https://miro.medium.com/max/919/1*T9C-TKihCSISWo6IfMeOoQ.gif" alt="Gif do gato programador"></a>
-
 ## Libs externas
 
 [ScrollRevel 🚀](https://scrollrevealjs.org/)
