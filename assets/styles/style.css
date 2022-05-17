@@ -262,12 +262,16 @@ header .container nav .menu-social-redes img:hover {
 .s-hero .container .title .techs img:hover {
   transform: translateY(-12%);
 }
+.cases img{
+  height: 45rem;
+}
 .cases{
-  width: 1300px;
+  
+  width: 130rem;
   overflow-x: scroll;
 }
 .cases::-webkit-scrollbar{
-width: 18px;
+width: 18rem;
 }
 .cases::-webkit-scrollbar-thumb{
   background-color: var(--primary-color);
