@@ -1,0 +1,48 @@
+/* minhas variaveis de cores*/
+
+:root {
+  --primary-color: #6833e4;
+  --second-color: #8257e5;
+  --terceiro-color:#996dff;
+  --black-color: #000000;
+  --black-color-medium: #0c0c0c;
+  --semi-black: #1e1e1e;
+  --white-color: #ffffff;
+}
+/* Grid de 12columns */
+.container {
+  width: 100%;
+  max-width: 1246px; 
+  margin: 0 auto;
+  padding: 0px 15px;
+}
+
+/* copomemtes primario*/
+
+.btn-primary {
+  border-radius: 24px;
+  font-weight: 700;
+  line-height: 2.4rem;
+  font-size: 1.6rem;
+  background-color: var(--primary-color);
+  color: var(--black-color);
+  padding: 1rem 2.6rem;
+  transition: all 0.2s;
+}
+.btn-primary:hover {
+  background-color: var(--white-color);
+  transform: scale(1.04);
+}
+.menu-item {
+  display: inline-block;
+  color: var(--primary-color);
+  font-weight: 700;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  transition: all 0.2s;
+}
+
+.menu-item:hover {
+  color: var(--white-color);
+  transform: scale(1.04);
+}
