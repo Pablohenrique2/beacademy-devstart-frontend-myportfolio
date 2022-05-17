@@ -16,7 +16,11 @@
   margin: 0 auto;
   padding: 0px 15px;
 }
-
+/* Grid fluid 100% */
+.container-fluid {
+  width: 100%;
+  padding: 0px 18px;
+}
 /* copomemtes primario*/
 
 .btn-primary {
@@ -45,4 +49,16 @@
 .menu-item:hover {
   color: var(--white-color);
   transform: scale(1.04);
+}
+h2 {
+  font-family: "Inter";
+  font-weight: 800;
+  font-size: 6.4rem;
+  line-height: 7.7rem;
+  color: var(--white-color);
+  margin-top: 2rem;
+}
+
+h2 span {
+  color: var(--primary-color);
 }
