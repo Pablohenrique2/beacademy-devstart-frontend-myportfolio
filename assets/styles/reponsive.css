@@ -137,6 +137,7 @@ header .container nav{
    .s-cases .container .cases {
     width: 45rem;
     overflow-x: scroll;
+ margin-left: 25px;
   }
   
 }
@@ -146,6 +147,7 @@ header .container nav{
   .s-cases .container .cases {
     width: 35rem;
     overflow-x: scroll;
+    
   }
   .s-cases .container .cases .cases-filhos iframe{
     width: 350px;
