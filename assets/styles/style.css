@@ -266,18 +266,27 @@ header .container nav .menu-social-redes img:hover {
 .cases img{
   height: 45rem;
 }
-.cases{
+.s-cases .container .cases {
   
-  width: 130rem;
+  width: 120rem;
   overflow-x: scroll;
 }
-.cases::-webkit-scrollbar{
+.s-cases .container .cases::-webkit-scrollbar{
 width: 18rem;
 }
-.cases::-webkit-scrollbar-thumb{
+.s-cases .container .cases::-webkit-scrollbar-thumb{
   background-color: var(--primary-color);
   border-left: 4px solid #fff;
   border-right: 4px solid #fff;
+  }
+  .s-cases .container .cases .cases-filhos{
+    width: 400px;
+    margin-right: 100px;
+    
+  }
+  .s-cases .container .cases .cases-filhos iframe{
+   padding-right: 5px;
+
   }
 /* Contact */
 
