@@ -150,4 +150,9 @@ header .container nav{
   .s-cases .container .cases .cases-filhos iframe{
     width: 350px;
   }
+  .s-cases .container .cases .cases-filhos{
+   
+    margin-right: 10px;
+    
+  }
 }
