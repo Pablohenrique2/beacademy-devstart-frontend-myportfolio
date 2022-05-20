@@ -143,4 +143,8 @@ header .container nav{
 
 
 @media (max-width: 480px) {
+  .s-cases .container .cases {
+    width: 30rem;
+    overflow-x: scroll;
+  }
 }
