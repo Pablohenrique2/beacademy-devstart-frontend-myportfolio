@@ -247,25 +247,6 @@ header .container nav .menu-social-redes img:hover {
   height: 48rem;
 }
 
-.s-cases .container .cases img {
-  border-radius: 0.4rem;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-
-.s-cases .container .cases img:hover {
-  transform: translateY(-2%);
-}
-.s-hero .container .title .techs img {
-  transition: all 0.2s;
-}
-
-.s-hero .container .title .techs img:hover {
-  transform: translateY(-12%);
-}
-.cases img{
-  height: 45rem;
-}
 .s-cases .container .cases {
   
   width: 120rem;
@@ -281,13 +262,10 @@ width: 18rem;
   }
   .s-cases .container .cases .cases-filhos{
     width: 400px;
-    margin-right: 100px;
+    margin-right: 60px;
     
   }
-  .s-cases .container .cases .cases-filhos iframe{
-   padding-right: 5px;
-
-  }
+  
 /* Contact */
 
 .s-contact {
